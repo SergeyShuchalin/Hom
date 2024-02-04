@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5a73885-894d-42f3-b88f-2af6ae377cfc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DZSh.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YRNhpb9Zrsbps2RB5qKLpFGWOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowAnt.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\YandexDisk\Личные папки\Сергей Шучалин\Учёба\Академия ТОП\Проекты\DZSh\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DzSh18">
+    <configuration name="DZSh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZSh2" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DzSh11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DzSh11" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DzSh18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DzSh18" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DzSh7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DzSh7" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DzSh8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DzSh8" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DzSh18" />
+        <item itemvalue="Application.DzSh7" />
+        <item itemvalue="Application.DzSh11" />
+        <item itemvalue="Application.DzSh8" />
+        <item itemvalue="Application.DZSh2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a73885-894d-42f3-b88f-2af6ae377cfc" name="Changes" comment="" />
+      <created>1700484556188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700484556188</updated>
+      <workItem from="1700484557011" duration="2242000" />
+      <workItem from="1700486828939" duration="87000" />
+      <workItem from="1700486960301" duration="20000" />
+      <workItem from="1700575144353" duration="2025000" />
+      <workItem from="1700618629102" duration="7719000" />
+      <workItem from="1700656276460" duration="674000" />
+      <workItem from="1700727576702" duration="12000" />
+      <workItem from="1700728404529" duration="220000" />
+      <workItem from="1700728800986" duration="149000" />
+      <workItem from="1700729157164" duration="2540000" />
+      <workItem from="1700731838047" duration="2166000" />
+      <workItem from="1700734239199" duration="319000" />
+      <workItem from="1700748123360" duration="1538000" />
+      <workItem from="1700919658292" duration="2371000" />
+      <workItem from="1701000615233" duration="1319000" />
+      <workItem from="1701002263037" duration="541000" />
+      <workItem from="1701002819052" duration="452000" />
+      <workItem from="1701057532410" duration="3105000" />
+      <workItem from="1701092945862" duration="1791000" />
+      <workItem from="1701094769950" duration="3145000" />
+      <workItem from="1701154703825" duration="10334000" />
+      <workItem from="1701170950483" duration="9816000" />
+      <workItem from="1701182796122" duration="69000" />
+      <workItem from="1701354396148" duration="5495000" />
+      <workItem from="1701360634519" duration="20000" />
+      <workItem from="1701414941220" duration="5477000" />
+      <workItem from="1701420490300" duration="376000" />
+      <workItem from="1701697189521" duration="3865000" />
+      <workItem from="1701788607742" duration="3089000" />
+      <workItem from="1702203029343" duration="8734000" />
+      <workItem from="1702813586143" duration="3503000" />
+      <workItem from="1702824466586" duration="1247000" />
+      <workItem from="1702825735585" duration="38000" />
+      <workItem from="1702825826409" duration="49000" />
+      <workItem from="1702903959243" duration="11885000" />
+      <workItem from="1702993240814" duration="7580000" />
+      <workItem from="1703002185331" duration="42000" />
+      <workItem from="1703076692336" duration="4659000" />
+      <workItem from="1703081462893" duration="16000" />
+      <workItem from="1703168822521" duration="299000" />
+      <workItem from="1703487751631" duration="969000" />
+      <workItem from="1703512357460" duration="7890000" />
+      <workItem from="1703520922857" duration="42000" />
+      <workItem from="1703603828123" duration="2148000" />
+      <workItem from="1703685347542" duration="4089000" />
+      <workItem from="1703690419638" duration="43000" />
+      <workItem from="1704869097250" duration="13000" />
+      <workItem from="1704891255970" duration="2180000" />
+      <workItem from="1705319464975" duration="31000" />
+      <workItem from="1705319505869" duration="21000" />
+      <workItem from="1705319537153" duration="6970000" />
+      <workItem from="1705328324897" duration="118000" />
+      <workItem from="1705491815628" duration="8209000" />
+      <workItem from="1705500171773" duration="28000" />
+      <workItem from="1705927661210" duration="5451000" />
+      <workItem from="1706106176185" duration="1278000" />
+      <workItem from="1706537156765" duration="197000" />
+      <workItem from="1706621603173" duration="1000" />
+      <workItem from="1706627792368" duration="3429000" />
+      <workItem from="1706631454603" duration="15000" />
+      <workItem from="1706658957577" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="DZSh.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="DZSh.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh/src}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

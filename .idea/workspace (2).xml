@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5a73885-894d-42f3-b88f-2af6ae377cfc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DZSh.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YRNhpb9Zrsbps2RB5qKLpFGWOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowAnt.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\YandexDisk\Личные папки\Сергей Шучалин\Учёба\Академия ТОП\Проекты\DZSh\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DZSh">
+    <configuration name="DZSh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZSh" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZSh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZSh2" />
+      <module name="DZSh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DZSh" />
+        <item itemvalue="Application.DZSh2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a73885-894d-42f3-b88f-2af6ae377cfc" name="Changes" comment="" />
+      <created>1700484556188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700484556188</updated>
+      <workItem from="1700484557011" duration="2242000" />
+      <workItem from="1700486828939" duration="87000" />
+      <workItem from="1700486960301" duration="20000" />
+      <workItem from="1700575144353" duration="2025000" />
+      <workItem from="1700618629102" duration="7719000" />
+      <workItem from="1700656276460" duration="674000" />
+      <workItem from="1700727576702" duration="12000" />
+      <workItem from="1700728404529" duration="220000" />
+      <workItem from="1700728800986" duration="149000" />
+      <workItem from="1700729157164" duration="2540000" />
+      <workItem from="1700731838047" duration="2166000" />
+      <workItem from="1700734239199" duration="319000" />
+      <workItem from="1700748123360" duration="1538000" />
+      <workItem from="1700919658292" duration="2371000" />
+      <workItem from="1701000615233" duration="1319000" />
+      <workItem from="1701002263037" duration="541000" />
+      <workItem from="1701002819052" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="DZSh.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="DZSh.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://K:/YandexDisk/Личные папки/Сергей Шучалин/Учёба/Академия ТОП/Проекты/DZSh/src}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
