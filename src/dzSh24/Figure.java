@@ -1,6 +1,6 @@
 package dzSh24;
 
-public class Figure {
+public abstract class Figure {
     private String title;
     private int radius;
     private int height;
@@ -45,9 +45,7 @@ public class Figure {
         this.radius = radius;
     }
 
-    public double volume() {
-        return volume();
-    }
+    public abstract double volume();
     public void info(){
         System.out.printf("Фигура: %-9s| Объем фигуры: %.2f%n", this.title, volume());
     }
